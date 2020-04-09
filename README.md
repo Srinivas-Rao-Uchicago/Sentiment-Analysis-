@@ -6,3 +6,4 @@ Illinois is famous for being one of the very few states in the country with nega
 
 Identify the key reasons for the declining population by extracting meaningful insights from unstructured text
 The news articles are related to either Chicago and / or Illinois.
+The data set is pulled by scraping news articles related to Chicago and IL .
